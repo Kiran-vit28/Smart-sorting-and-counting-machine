@@ -44,3 +44,6 @@ Connect the ESP32-CAM, IR sensor, OLED display, servo motor, and conveyor system
 
 ## Working
 Objects moving on the conveyor belt are detected by an IR sensor and counted. The ESP32-CAM captures images of the objects and classifies them using a trained Edge Impulse model. Based on the classification result, a servo motor directs each object into the appropriate bin while the count is displayed in real time.
+
+<img width="302" height="162" alt="image" src="https://github.com/user-attachments/assets/df30c823-6586-486e-b564-6cc5333f1d66" />
+
