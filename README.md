@@ -50,6 +50,7 @@ Objects moving on the conveyor belt are detected by an IR sensor and counted. Th
 <img width="332" height="188" alt="image" src="https://github.com/user-attachments/assets/187e10fc-860b-42d9-b74f-43afdf30b8d6" />
 
 ## Results 
+<img width="343" height="144" alt="image" src="https://github.com/user-attachments/assets/e3e047d3-977c-4e0c-8689-2c746d97a104" />
 <img width="292" height="101" alt="image" src="https://github.com/user-attachments/assets/1694f489-6775-4ee0-b30b-83de0ff02317" />
 <img width="313" height="298" alt="image" src="https://github.com/user-attachments/assets/4940d560-4414-44e7-a8fd-27124ab5ee44" />
 
